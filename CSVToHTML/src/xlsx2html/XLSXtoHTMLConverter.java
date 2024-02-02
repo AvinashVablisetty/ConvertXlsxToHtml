@@ -1,5 +1,5 @@
 /**************************************************************************
- * @author Avinash Vablisetty
+ * @author Avinash Vablisetty(vnvak1994@gmail.com)
  * 
  * This application is used to convert an .XLSX file to .HTML file
  * The content in the XLSX files remains same in the generated HTML file and options to navigate between sheets will also be available
